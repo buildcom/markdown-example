@@ -1,2 +1,3 @@
-# markdown-example
-# markdown-example
+# Markdown Example
+
+An example post to get started...
