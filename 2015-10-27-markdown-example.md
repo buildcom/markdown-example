@@ -36,7 +36,7 @@ Beard butcher wayfarers Godard. Chillwave keytar photo booth iPhone farm-to-tabl
 
 Beard butcher wayfarers Godard. Chillwave keytar photo booth iPhone farm-to-table. Lo-fi tote bag banjo drinking vinegar pork belly four loko. Chia narwhal try-hard Banksy tofu, Kickstarter Pitchfork banjo chambray 90's seitan kale chips. Sriracha McSweeney's normcore Schlitz. Neutra fanny pack Bushwick XOXO cronut listicle narwhal. Chillwave put a bird on it Vice Blue Bottle.
 
-![Mobile Home Photo](/images/test.jpg "It's a Mobile Home!"){: .img-responsive }
+![Example Photo](https://raw.githubusercontent.com/livingdirect/livingdirect.github.io/master/images/placeholder/example.jpg "Example Photo"){: .img-responsive }
 
 Beard butcher wayfarers Godard. Chillwave keytar photo booth iPhone farm-to-table. Lo-fi tote bag banjo drinking vinegar pork belly four loko. Chia narwhal try-hard Banksy tofu, Kickstarter Pitchfork banjo chambray 90's seitan kale chips. Sriracha McSweeney's normcore Schlitz. Neutra fanny pack Bushwick XOXO cronut listicle narwhal. Chillwave put a bird on it [Google](http://www.google.com).
 
